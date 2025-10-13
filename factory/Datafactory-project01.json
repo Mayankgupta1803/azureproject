@@ -1,0 +1,9 @@
+{
+	"name": "Datafactory-project01",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72608ab2-3b74-4308-b88f-1ccd25c315e5",
+		"tenantId": "3773f0ef-7578-4757-8d57-ab8dccfe33c1"
+	}
+}
